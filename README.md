@@ -4,7 +4,7 @@
 
 I’m a passionate blockchain developer focused on building secure, scalable, and efficient smart contracts using Solidity. My interests lie in low-level EVM mechanics, DeFi protocols, and tooling for Ethereum developers. I enjoy working with frameworks like Foundry and Hardhat to push the boundaries of what's possible in decentralized systems.
 
-Currently diving deeper into protocol-level security and on-chain infrastructure.
+Currently diving deeper into protocol-level security and learn new skills like Rust language.
 
 ---
 
