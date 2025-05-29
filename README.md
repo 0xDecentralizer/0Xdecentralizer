@@ -6,7 +6,9 @@ I’m a passionate blockchain developer focused on building secure, scalable, an
 
 Currently diving deeper into protocol-level security and learn new skills like Rust language.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdecentralizer&label=Profile%20views&color=0e75b6&style=flat" alt="0xdecentralizer" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xdecentralizer" alt="0xdecentralizer" /></a> </p>
 
 ## 🛠️ Tech Stack
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
